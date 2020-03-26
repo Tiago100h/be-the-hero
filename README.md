@@ -35,3 +35,9 @@ Semana OmniStack 11
 `npx create-react-app frontend` Cria um projeto React.
 
 `npm start` Executa o projeto. (Executa o script que está definido no arquivo `package.json`)
+
+`npm install react-icons` Instala pacote de ícones.
+
+`npm install react-router-dom` Instala pacote de rotas.
+
+`npm install axios` Instala cliente http.
