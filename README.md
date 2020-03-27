@@ -41,3 +41,23 @@ Semana OmniStack 11
 `npm install react-router-dom` Instala pacote de rotas.
 
 `npm install axios` Instala cliente http.
+
+### Mobile
+
+`npm install -g expo-cli` Instalar o pacote Expo de forma global
+
+`expo -h` Mostra os comandos do expo
+
+`expo init mobile` Cria o projeto Mobile
+
+`yarn start` Executa o projeto
+
+`npm install @react-navigation/native` Instala pacote de rotas. (https://reactnavigation.org/docs/getting-started)
+
+`expo install expo-constants` Instala pacote expo-constants.
+
+`expo install expo-mail-composer` Instala pacote de e-mail.
+
+`npm install axios` Instala client http.
+
+`npm install intl` Instala pacote de internacionalização.
