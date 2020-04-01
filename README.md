@@ -1,6 +1,11 @@
 # Be the Hero
 Semana OmniStack 11
 
+## O repositório foi divido em [backend](https://be-the-hero-backend-tiago.herokuapp.com/), [frontend](https://be-the-hero-frontend-tiago.netlify.com/) e mobile
+- https://github.com/Tiago100h/be-the-hero-backend
+- https://github.com/Tiago100h/be-the-hero-frontend
+- https://github.com/Tiago100h/be-the-hero-mobile
+
 ## Comandos utilizados no terminal
 ### Backend
 
