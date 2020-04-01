@@ -85,6 +85,7 @@ netlify (aplicação pequena)
 
 ### Mobile
 gerando apk expo (youtube)
+`expo publish` Update Over the Air
 
 ## Dicas estudos
 Padrões de código: ESLint, Prettier
