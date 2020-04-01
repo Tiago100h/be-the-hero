@@ -18,8 +18,8 @@ describe('ONG', () => {
             //.set('Authorization', '123123')
             .send({
                 name: "APAD",
-                email: "tiagogiuiliatte@gmail.com",
-                whatsapp: "27996224049",
+                email: "teste@apad.com",
+                whatsapp: "27900000000",
                 city: "Cariacica",
                 uf: "ES"
             });
